@@ -1,3 +1,130 @@
+/*========================================*/
+/*========BODY STYLING FOR DEMO===========*/
+/*========================================*/
+body{background:#999;font-family:Helvetica Neue,Arial,Helvetica, sans-serif;font-size:62.5%;}
+#wrapper{width:760px;margin: 60px auto 0 auto;background:#A2A2A2;border:1px solid #666;-moz-border-radius: 10px;
+-webkit-border-radius: 10px;padding:20px;}
+#footer{width:760px;margin:10px auto;text-align:center;}
+#footer p{font-size:1.2em;color:#333;}
+#footer a{color:#245BFF;text-decoration:none;}
+#download{margin-top:40px;text-align: center;}
+#download a{text-decoration: none;color:#111;border:1px solid #111;padding:5px;font-size:1.3em;}
+#download a:hover{color:#eee;border-color:#eee;}
+ul{list-style:none;margin:10px 0;padding:0;}
+ul li{font-size:1.4em;line-height:1.4em;}
+:focus{outline:0;}
+
+a{color:#444;text-decoration: none;}
+a:hover{color:#666;}
+ h1,h2,h3,h4{text-align:center;margin:5px 0;color:#333;text-shadow: #919191 0px 0px 0px;font-family:Palatino,Palatino Linotype,Hoefler Text,Times, Times New Roman,serif;}
+p{font-size:1.6em;line-height:1.2em;color:#fff;}
+h1{font-size:3.8em;}
+h2{font-size:2em;}
+h3{font-size:1.8em;text-align: left;text-decoration:underline;margin-top:25px;}
+h4{font-size:1.6em;}
+h4.credit_text{color:#555;font-size:18px;margin:20px auto;}
+h4.credit_text a{color:#444;font-size:18px;text-decoration: none;}
+h4.credit_text a:hover{color:#666;}
+
+
+
+.featured-bar {
+	width: 100%;
+	height: 50px;
+	background: #292929;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	margin: 0; padding: 0;
+	z-index: 10000;
+
+}
+
+.featured-bar li {
+	float: left;
+	border-right: 1px solid #161616;
+	border-left: 1px solid #434343;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom:  8px;
+	margin-bottom: 0;
+	position: relative;
+}
+.featured-bar li.logo{
+	float: left;
+	border-right: 1px solid #161616;
+	border-left: 1px solid #434343;
+	list-style: none;
+	padding:0!important;
+	margin-bottom: 0;
+	position: relative;
+}
+.featured-bar li.right {
+	float: right;
+}
+
+.featured-bar li img {
+	border: none;
+	margin-right:10px;
+	vertical-align: middle;
+}
+
+.featured-bar li a {
+	text-decoration: none;
+	color: white;
+	height: 100%;
+	padding: 0 25px;
+	padding-bottom: 20px;
+	line-height: 28px;
+}
+
+.featured-bar li a:hover {
+	text-decoration: underline;
+}
+
+.featured-bar li:first-child {
+	border-left: none;
+}
+
+.featured-bar li:last-child {
+	border-right: none;
+}
+
+
+.featured-bar li ul {
+	display: none;
+}
+
+.featured-bar li:hover ul {
+	display: block;
+	width: 100%;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	*margin-left: -143px; /* Weird for IE */
+}
+
+.featured-bar li ul li {
+	clear: both;
+	height: 32px;
+	float: none;
+	padding: 0;
+	border-bottom: 1px solid #161616;
+	border-top: 1px solid #434343;
+}
+
+.featured-bar li ul li a {
+	display: block;
+	float: none;
+	width: 100%;
+	padding: 0 25px 0 10px;
+}
+
+.featured-bar li ul li:last-child {
+	border-bottom: none;
+}
+
+
 #demo1,#demo2{width:500px;padding:10px;margin:20px auto;border:1px solid #777;background:#999;}
 .networks{float:left;margin:0 20px;}
 .options{float:right;margin:0 20px;}
