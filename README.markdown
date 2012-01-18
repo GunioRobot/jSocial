@@ -1,4 +1,4 @@
-#  jSocial [http://demos.thatryan.com/jSocial/](http://demos.thatryan.com/jSocial)
+#  jSocial [http://thatryan.github.com/jSocial/](http://thatryan.github.com/jSocial/)
 
 ## Summary:
 
