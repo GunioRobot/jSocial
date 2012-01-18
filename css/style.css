@@ -2,6 +2,7 @@
 /*========BODY STYLING FOR DEMO===========*/
 /*========================================*/
 body{background:#999;font-family:Helvetica Neue,Arial,Helvetica, sans-serif;font-size:62.5%;}
+pre{font-size:13px;}
 #wrapper{width:760px;margin: 60px auto 0 auto;background:#A2A2A2;border:1px solid #666;-moz-border-radius: 10px;
 -webkit-border-radius: 10px;padding:20px;}
 #footer{width:760px;margin:10px auto;text-align:center;}
