@@ -1,36 +1,4 @@
-/*========================================*/
-/*========BODY STYLING FOR DEMO===========*/
-/*========================================*/
-body{background:#f9f9f9;font-family:Helvetica Neue,Arial,Helvetica, sans-serif;font-size:62.5%;}
-#wrapper{width:760px;margin: 60px auto 0 auto;background:#f5f5f5;border:1px solid #999;-moz-border-radius: 10px;
--webkit-border-radius: 10px;padding:20px;}
-#footer{width:760px;margin:10px auto;text-align:center;}
-#footer p{font-size:1.2em;color:#333;}
-#footer a{color:#245BFF;text-decoration:none;}
-#download{margin-top:40px;text-align: center;}
-#download a{text-decoration: none;color:#111;border:1px solid #111;padding:5px;font-size:1.3em;}
-#download a:hover{color:#eee;border-color:#eee;}
-ul{list-style:none;margin:10px 0;padding:0;}
-ul li{font-size:1.4em;line-height:1.4em;}
-:focus{outline:0;}
-pre{background:#f0f0f0;font-size:14px;margin:0;padding:0;}
-a{color:#444;text-decoration: none;}
-a:hover{color:#666;}
- h1,h2,h3,h4{text-align:center;margin:5px 0;color:#333;text-shadow: #919191 0px 0px 0px;font-family:Palatino,Palatino Linotype,Hoefler Text,Times, Times New Roman,serif;}
-p{font-size:1.6em;line-height:1.2em;color:#666;}
-h1{font-size:3.8em;}
-h2{font-size:2em;}
-h3{font-size:1.8em;text-align: left;text-decoration:underline;margin-top:25px;}
-h4{font-size:1.6em;}
-h4.credit_text{color:#555;font-size:18px;margin:20px auto;}
-h4.credit_text a{color:#444;font-size:18px;text-decoration: none;}
-h4.credit_text a:hover{color:#666;}
-#demo1,#demo2{width:500px;padding:10px;margin:20px auto;border:1px solid #777;background:#999;}
-.networks{float:left;margin:0 20px;}
-.options{float:right;margin:0 20px;}
-/*================================================================================*/
-/*========DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING===============*/
-/*================================================================================*/
+
 
 
 /*========================================*/
